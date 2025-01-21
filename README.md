@@ -125,9 +125,3 @@
 42. 启动机制 | Spring Boot Starter 注解驱动实现
 43. 项目扩展思路
 
-
-
-## 完整项目教程学习
-
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，鱼皮往期 [所有原创项目](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd) 均可学习。
-
